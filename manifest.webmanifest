@@ -1,0 +1,18 @@
+{
+  "name": "विश्वरूप स्टूडियो — Vishwaroop Studio",
+  "short_name": "विश्वरूप",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141433",
+  "theme_color": "#141433",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23141433'/%3E%3Ccircle cx='256' cy='256' r='140' fill='none' stroke='%23D4AF37' stroke-width='16'/%3E%3Ccircle cx='256' cy='116' r='32' fill='%23E9CC70'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
